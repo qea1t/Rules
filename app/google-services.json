@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064780516748",
+    "project_id": "traficrules-a55ec",
+    "storage_bucket": "traficrules-a55ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064780516748:android:e8a96eca8cad2dd060daa9",
+        "android_client_info": {
+          "package_name": "com.example.trafficrules"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDQ3Ers1nTt88XwkIPjO7UYHlaq7ctsOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
